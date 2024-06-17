@@ -1,7 +1,7 @@
 {
   "name": "@ahstream/hx-common-lib",
   "version": "1.0.0",
-  "description": "Hx common JavaScript library functions",
+  "description": "Hx common JavaScript helper functions",
   "author": "ahstream",
   "license": "ICS",
   "type": "module",
