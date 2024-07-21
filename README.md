@@ -7,7 +7,7 @@ npm install
 npm run dev
 
 npm link
-npm link @ahstream/hx-common-lib
+npm link @ahstream/hx-lib
 node test/test.js
 
 npm login
